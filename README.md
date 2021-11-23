@@ -1,2 +1,1 @@
-# AboutHari
-Personal Website
+# Personal Website
